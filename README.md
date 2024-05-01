@@ -1,11 +1,12 @@
 # TUGAS_web_CI
 
-|                  |                    |
-| ---------------- | ------------------ |
-| <b> Nama         | Galva Al Godzali   |
-| <b> NIM          | 312210356          |
-| <b> Kelas        | TI.22.A.3          |
-| <b> Matakuliah   | Pemrograman Web 2  |
+| 🐻 | DATA MAHASISWA |
+| -------- | --- |
+| **Nama** | Wisnu Ikhwansyah Saputra|
+| **NIM** | 312010305 |
+| **Kelas** | TI.22.A3 |
+| **Mata Kuliah** | Pemrograman Web |
+
 
 </table>_________________________________________________________________________________
 _________________________________________________________________________________
